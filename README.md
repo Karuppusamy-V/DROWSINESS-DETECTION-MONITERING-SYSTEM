@@ -12,5 +12,5 @@ Road accidents caused by driver drowsiness are a major issue on today's highways
 
 ![Picture4](https://github.com/Vkaruppusamy/Drowsiness-Dectection-of-Drivers-using-Deep-Learning-with-interfacing-in-arduino-/assets/105380792/ec50c128-e1d2-436d-b240-99c84db28cd6)
 
-![Picture5](https://github.com/Vkaruppusamy/Drowsiness-Dectection-of-Drivers-using-Deep-Learning-with-interfacing-in-arduino-/assets/105380792/aba63823-e375-440e-b263-6b66c5c276c3)
+
 
